@@ -12,5 +12,5 @@ Sintaks yang digunakan Java berasal dari C dan C++ dengan lebih sedikit fasilita
 Selain fitur portability-nya, Java adalah bahasa yang mature (dewasa) dengan library yang relatif lengkap. Pada 2016, Java menjadi salah satu bahasa pemrograman yang paling banyak digunakan di dunia. Selain itu, Java juga merupakan bahasa resmi untuk membuat aplikasi Android. Intinya Java dipandang sebagai bahasa yang akan selalu relevan dengan perkembangan di masa yang akan datang.
 
 Untuk mengetahui lebih lanjut tentang Java Anda dapat melihat tautan berikut ini:
-* [Go Java] (https://dev.java/)
-* [Introduction to Java]  (https://www.oracle.com/java/technologies/introduction-to-java.html#943)   
+* Go Java(https://dev.java/)
+* [Introduction to Java] (https://www.oracle.com/java/technologies/introduction-to-java.html#943)   
