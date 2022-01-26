@@ -10,5 +10,8 @@ public class InputOutputFunction {
         int anotherValue = scanner.nextInt();
         int result = value + anotherValue;
         System.out.println("Hasil adalah : " + result);
+        
+
+        scanner.close();
     }
 }
