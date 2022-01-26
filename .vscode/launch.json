@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch UserBufferedReader",
+            "request": "launch",
+            "mainClass": "UserBufferedReader",
+            "projectName": "Java_d209beab"
+        },
+        {
+            "type": "java",
             "name": "Launch Current File",
             "request": "launch",
             "mainClass": "${file}"
