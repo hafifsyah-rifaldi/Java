@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch MapPlanet",
+            "request": "launch",
+            "mainClass": "com.dicoding.javafundamental.collection.MapPlanet",
+            "projectName": "Java_ca58194c"
+        },
+        {
+            "type": "java",
             "name": "Launch SetPlanet",
             "request": "launch",
             "mainClass": "com.dicoding.javafundamental.collection.SetPlanet",
