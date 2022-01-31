@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch InisiasiArray",
+            "request": "launch",
+            "mainClass": "InisiasiArray",
+            "projectName": "Java_d209beab"
+        },
+        {
+            "type": "java",
             "name": "Launch UserOutput",
             "request": "launch",
             "mainClass": "UserOutput",
