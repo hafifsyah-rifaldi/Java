@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch For",
+            "request": "launch",
+            "mainClass": "For",
+            "projectName": "Java_ca58194c"
+        },
+        {
+            "type": "java",
             "name": "Launch SwitchWithoutBreak",
             "request": "launch",
             "mainClass": "com.dicoding.javafundamental.percabangan.SwitchWithoutBreak",
