@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch ForBersarang",
+            "request": "launch",
+            "mainClass": "ForBersarang",
+            "projectName": "Java_ca58194c"
+        },
+        {
+            "type": "java",
             "name": "Launch For",
             "request": "launch",
             "mainClass": "For",
