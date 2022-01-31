@@ -1,7 +1,6 @@
 package com.dicoding.javafundamental.collection;
 
 import java.util.ArrayList;
-import java.util.Collection;
 import java.util.List;
 
 public class ListPlanet {
