@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch IfThenElse",
+            "request": "launch",
+            "mainClass": "com.dicoding.javafundamental.percabangan.IfThenElse",
+            "projectName": "Java_ca58194c"
+        },
+        {
+            "type": "java",
             "name": "Launch IfThen",
             "request": "launch",
             "mainClass": "com.dicoding.javafundamental.percabangan.IfThen",
