@@ -24,7 +24,7 @@ public static void main(String[] args) {
         // method get() untuk melihat isi List pada index i
         System.out.println("\t index-"+ i + " = " + planets.get(i));
     }
-    planets.remove("venus"); // method removr
+    planets.remove("venus"); // method remove
 
     System.out.println("List planets akhir: ");
     for(int i = 0; i < planets.size(); i++){
