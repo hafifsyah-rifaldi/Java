@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch ListPlanet",
+            "request": "launch",
+            "mainClass": "com.dicoding.javafundamental.collection.ListPlanet",
+            "projectName": "Java_ca58194c"
+        },
+        {
+            "type": "java",
             "name": "Launch Main",
             "request": "launch",
             "mainClass": "com.dicoding.javafundamental.collection.Main",
