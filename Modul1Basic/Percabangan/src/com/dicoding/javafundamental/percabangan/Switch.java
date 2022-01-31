@@ -1,7 +1,5 @@
 package com.dicoding.javafundamental.percabangan;
 
-import java.text.BreakIterator;
-
 public class Switch {
     public static void main(String[] args) {
         int input = 6;
