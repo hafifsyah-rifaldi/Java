@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch IfThen",
+            "request": "launch",
+            "mainClass": "com.dicoding.javafundamental.percabangan.IfThen",
+            "projectName": "Java_ca58194c"
+        },
+        {
+            "type": "java",
             "name": "Launch IndexOutOfBound",
             "request": "launch",
             "mainClass": "IndexOutOfBound",
