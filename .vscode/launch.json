@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch DoWhile",
+            "request": "launch",
+            "mainClass": "DoWhile",
+            "projectName": "Java_ca58194c"
+        },
+        {
+            "type": "java",
             "name": "Launch ForBersarang",
             "request": "launch",
             "mainClass": "ForBersarang",
