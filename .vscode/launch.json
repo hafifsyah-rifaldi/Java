@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch IndexOutOfBound",
+            "request": "launch",
+            "mainClass": "IndexOutOfBound",
+            "projectName": "Java_ca58194c"
+        },
+        {
+            "type": "java",
             "name": "Launch MultiDimensionalArray",
             "request": "launch",
             "mainClass": "MultiDimensionalArray",
