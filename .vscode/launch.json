@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch callFunction",
+            "request": "launch",
+            "mainClass": "com.dicoding.javafundamental.function.callFunction",
+            "projectName": "Java_ca58194c"
+        },
+        {
+            "type": "java",
+            "name": "Launch callFunction",
+            "request": "launch",
+            "mainClass": "com.dicoding.javafundamental.function.CallFunction",
+            "projectName": "Java_ca58194c"
+        },
+        {
+            "type": "java",
             "name": "Launch Main",
             "request": "launch",
             "mainClass": "com.dicoding.javafundamental.obyek.Main",
