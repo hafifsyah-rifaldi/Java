@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch ReturnFunction",
+            "request": "launch",
+            "mainClass": "com.dicoding.javafundamental.function.ReturnFunction",
+            "projectName": "Java_ca58194c"
+        },
+        {
+            "type": "java",
             "name": "Launch callFunction",
             "request": "launch",
             "mainClass": "com.dicoding.javafundamental.function.callFunction",
