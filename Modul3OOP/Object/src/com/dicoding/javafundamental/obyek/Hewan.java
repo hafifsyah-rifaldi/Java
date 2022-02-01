@@ -15,7 +15,7 @@ public class Hewan {
     }
 
     public void jumlahKakiHewan(int jumlahKakiHewan){
-        jumlahKakiHewan = jumlahKakiHewan;
+        jumlahKaki = jumlahKakiHewan;
     }
 
     public void cetakHewan(){
@@ -24,4 +24,3 @@ public class Hewan {
         System.out.println("Jumlah Kaki: " + jumlahKaki);
     }
 }
-    
