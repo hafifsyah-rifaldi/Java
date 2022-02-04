@@ -1,4 +1,4 @@
-package com.dicoding.javafundamental.accessmodifier;
+package com.dicoding.javafundamental.accessmodifier.package1;
 
 public class Main {
     public static void main(String[] args) {
