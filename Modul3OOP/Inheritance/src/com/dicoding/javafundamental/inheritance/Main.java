@@ -13,6 +13,10 @@ public class Main {
         System.out.println("Apakah Kucing IS-A Objek -> " + (kucing instanceof Object));
         System.out.println("Apakah Kucing IS-A Hewan -> " + (kucing instanceof Hewan));
         System.out.println("Apakah Kucing IS-A Kucing -> " + (kucing instanceof Kucing));
+
+        System.out.println("------------------------------");
+
+        kucing.makan(); // kucing mewarisi metode makan() dari parent class Hewan
     }
     
 }
