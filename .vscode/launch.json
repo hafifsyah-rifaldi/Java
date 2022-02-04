@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch MethodOverloading",
+            "request": "launch",
+            "mainClass": "com.dicoding.javafundamental.function.MethodOverloading",
+            "projectName": "Java_ca58194c"
+        },
+        {
+            "type": "java",
             "name": "Launch InputFunction",
             "request": "launch",
             "mainClass": "com.dicoding.javafundamental.function.InputFunction",
