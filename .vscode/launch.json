@@ -8,6 +8,13 @@
             "type": "java",
             "name": "Launch Main",
             "request": "launch",
+            "mainClass": "com.dicoding.javafundamental.accessmodifier.package3.Main",
+            "projectName": "Java_ca58194c"
+        },
+        {
+            "type": "java",
+            "name": "Launch Main",
+            "request": "launch",
             "mainClass": "com.dicoding.javafundamental.accessmodifier.package2.Main",
             "projectName": "Java_ca58194c"
         },
