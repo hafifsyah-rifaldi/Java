@@ -1,8 +1,11 @@
 package com.dicoding.javafundamental.accessmodifier;
 
-public class KelasA {
+public class KelasA {   // access modifier DEFAULT
 
     private int memberA = 5;
+
+    char memberB = 'A';     // access modifier DEFAULT
+    double memberC = 1.5;   // access modifier DEFAULT
 
     private int functionA(){
         return memberA;
