@@ -8,6 +8,8 @@ public class Main {
             new Perhitungan();
         }
 
-        System.out.println("Sampai "+Perhitungan.nilai);
+        System.out.println("Sampai "+Perhitungan.nilai); // Memanggil pada class Perhitungan
+
+        System.out.println("getNilai memiliki nilai " + Perhitungan.getNilai());    // Memanggil pada class Perhitungan
     }
 }
