@@ -8,6 +8,13 @@
             "type": "java",
             "name": "Launch Main",
             "request": "launch",
+            "mainClass": "com.dicoding.javafundamental.propertimetode.Main",
+            "projectName": "Java_d209beab"
+        },
+        {
+            "type": "java",
+            "name": "Launch Main",
+            "request": "launch",
             "mainClass": "com.dicoding.javafundamental.inheritance.Main",
             "projectName": "Java_ca58194c"
         },
