@@ -1,5 +1,6 @@
 {
     "java.project.sourcePaths": [
+        "Modul4CommonClass/InputOutputStream/src",
         "Modul4CommonClass/Generics/src",
         "Modul4CommonClass/Exception/src",
         "Modul3OOP/PropertiDanMetode/src",
@@ -15,6 +16,6 @@
         "Modul1Basic/Percabangan/src",
         "Modul1Basic/Array/src/com/dicoding/javafundamental/array",
         "Modul0Introduction",
-        "Modul4CommonClass/InputOutputStream/src"
+        "Modul4CommonClass/Datetime/src"
     ]
 }
