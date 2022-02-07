@@ -4,6 +4,7 @@
         "Modul3OOP/Object/src",
         "Modul3OOP/InterfaceImplement/src",
         "Modul3OOP/Interface/src",
+        "Modul3OOP/Inheritance/src",
         "Modul3OOP/Function/src",
         "Modul3OOP/AccessModifier/src",
         "Modul2Collection/Collection/src",
@@ -12,6 +13,6 @@
         "Modul1Basic/Percabangan/src",
         "Modul1Basic/Array/src/com/dicoding/javafundamental/array",
         "Modul0Introduction",
-        "Modul3OOP/Inheritance/src"
+        "Modul4CommonClass/Generics/src"
     ]
 }
