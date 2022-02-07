@@ -3,6 +3,7 @@
         "Modul4CommonClass/InputOutputStream/src",
         "Modul4CommonClass/Generics/src",
         "Modul4CommonClass/Exception/src",
+        "Modul4CommonClass/Datetime/src",
         "Modul3OOP/PropertiDanMetode/src",
         "Modul3OOP/Object/src",
         "Modul3OOP/InterfaceImplement/src",
@@ -16,6 +17,6 @@
         "Modul1Basic/Percabangan/src",
         "Modul1Basic/Array/src/com/dicoding/javafundamental/array",
         "Modul0Introduction",
-        "Modul4CommonClass/Datetime/src"
+        "Modul4CommonClass/Casting/src"
     ]
 }
