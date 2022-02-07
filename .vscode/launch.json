@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch Navigation",
+            "request": "launch",
+            "mainClass": "com.dicoding.javafundamental.iostream.Navigation",
+            "projectName": "Java_ca58194c"
+        },
+        {
+            "type": "java",
             "name": "Launch ByteStreams",
             "request": "launch",
             "mainClass": "com.dicoding.javafundamental.iostream.ByteStreams",
