@@ -8,6 +8,13 @@
             "type": "java",
             "name": "Launch Main",
             "request": "launch",
+            "mainClass": "com.dicoding.javafundamental.exception.Main",
+            "projectName": "Java_ca58194c"
+        },
+        {
+            "type": "java",
+            "name": "Launch Main",
+            "request": "launch",
             "mainClass": "com.dicoding.javafundamental.generics.Main",
             "projectName": "Java_ca58194c"
         },
