@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch ExampleSpecificCalendar",
+            "request": "launch",
+            "mainClass": "com.dicoding.javafundamental.datetime.ExampleSpecificCalendar",
+            "projectName": "Java_ca58194c"
+        },
+        {
+            "type": "java",
             "name": "Launch ExampleSplitCalendar",
             "request": "launch",
             "mainClass": "com.dicoding.javafundamental.datetime.ExampleSplitCalendar",
