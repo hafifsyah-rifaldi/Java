@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch VokalKonsonan",
+            "request": "launch",
+            "mainClass": "com.dicoding.javafundamental.vokalkonsonan.VokalKonsonan",
+            "projectName": "Java_d209beab"
+        },
+        {
+            "type": "java",
             "name": "Launch SuhuAir",
             "request": "launch",
             "mainClass": "com.dicoding.javafundamental.suhuair.SuhuAir",
