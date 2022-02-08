@@ -11,7 +11,7 @@ public class SuhuAir {
 
         /* Program */
         System.out.println("Contoh IF tiga kasus");
-        System.out.println("Suhu (der.C) = ");
+        System.out.print("Suhu (der.C) = ");
     
         // Scanner untuk masukan suhu air
         Scanner scanner = new Scanner(System.in);
@@ -20,10 +20,11 @@ public class SuhuAir {
         // Proses pengecekan dengan if
         if (T < 0){
             System.out.println("Wujud air beku " + T);
-        } else if ((0 <= T) && (T <= 00)) {
+        } else if ((0 <= T) && (T <= 100)) {
             System.out.println("Wujud air cair " + T);
         } else if (T > 100) {
             System.out.println("Wujud air uap/gas " + T);
         }
+        scanner.close();
     }
 }

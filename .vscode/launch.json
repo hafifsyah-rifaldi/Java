@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch SuhuAir",
+            "request": "launch",
+            "mainClass": "com.dicoding.javafundamental.suhuair.SuhuAir",
+            "projectName": "Java_d209beab"
+        },
+        {
+            "type": "java",
             "name": "Launch Main",
             "request": "launch",
             "mainClass": "com.dicoding.javafundamental.casting.Main",
