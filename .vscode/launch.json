@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch Main",
+            "request": "launch",
+            "mainClass": "com.dicoding.javafundamental.bangundatar.Main",
+            "projectName": "Java_d209beab"
+        },
+        {
+            "type": "java",
             "name": "Launch VokalKonsonan",
             "request": "launch",
             "mainClass": "com.dicoding.javafundamental.vokalkonsonan.VokalKonsonan",
